@@ -1,0 +1,48 @@
+body
+{
+    font-family: "Times New Roman", serif; /* Шрифт */
+    font-size: 18px; /* Размер шрифта */
+    line-height: 1.1; /* Высота строки */
+    font-weight: 550; /* Толщина шрифта (400 - нормальный, 700 - жирный) */
+    color: black;
+    background-color: lightpink;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+h2
+{
+    text-align: center;
+    color: black;
+}
+h3
+{
+    text-align: center;
+    color: black;
+}
+
+p {
+    margin: 10px;
+    font-family: "Times New Roman", serif; /* Шрифт */
+
+}
+li
+{
+    text-align: center;
+    color: black;
+}
+
+ul {
+    list-style-type: disc; /* Маркированные списки */
+    padding-left: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
